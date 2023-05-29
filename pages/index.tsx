@@ -27,7 +27,7 @@ export default function Home() {
         </div>
       </nav>
       
-      <div className='w-full flex flex-row mb-[100px]'>
+      <div className='w-full flex flex-row mb-[50px]'>
         
         <div className='w-full flex flex-col mt-[120px] pl-[5%]'>
             <h2 className='text-6xl text-[#091562]'>
@@ -36,7 +36,7 @@ export default function Home() {
             
             <h2 className='text-2xl text-[#091562]
             mt-[40px]'>
-            <span class="type-info"></span>
+            <span className="type-info"></span>
             </h2>
 
             <div className="flex justify-start">
