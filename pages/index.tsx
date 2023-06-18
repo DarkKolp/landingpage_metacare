@@ -53,13 +53,13 @@ export default function Home() {
         </nav>
         <div className="w-full h-[3px] bg-[#091562]"></div>
         
-        <div className='w-full flex flex-row mb-[50px]'>
+        <div className='w-full flex flex-row mb-[40px]'>
           
-          <div className='w-3/5 flex flex-col mt-[50px] pl-[5%]'>
+          <div className='w-3/5 flex flex-col mt-[40px] pl-[5%]'>
               <div className="w-full ml-[15%]">
                 <img src="/metacareLogo.png" alt="Metacare Logo" width={250} height={250}/>
               </div>
-              <h2 className='text-5xl text-[#091562] font-bold mt-[40px]'>
+              <h2 className='text-5xl text-[#091562] font-bold mt-[30px]'>
                       Your Personal Pathway to<br></br>your Healtier Future.
               </h2>
               
@@ -70,7 +70,7 @@ export default function Home() {
               <p className=" text-[#091562] text-xl
               mt-[20px]">Join our waitlist and be the first to experience a new era of healthcare</p>
 
-              <div className="flex justify-start ml-[30px] mt-[70px]">
+              <div className="flex justify-start ml-[30px] mt-[60px]">
                 <input type="email" placeholder="Enter your email"
                 className="h-[50px] w-[300px] rounded-lg border border-gray-400/75 mr-5 pl-4" />
                 <button type="button"
