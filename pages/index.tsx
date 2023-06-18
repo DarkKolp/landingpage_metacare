@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Head>
           <title>Metacare Health</title>
-          <link rel="shortcut icon" href="/public/favicon.ico" />
+          <link rel="shortcut icon" href="./public/favicon.ico" />
         </Head>
         <nav className="w-full h-[120px] 
         
@@ -86,7 +86,7 @@ export default function Home() {
 
           </div>
 
-          <div className='absolute  top-[123px] right-0'>
+          <div className='xl:absolute  top-[123px] right-0'>
             <img src="/bgimg.png" alt="Blue man with open arms" width={643} height={857}/>
           </div>
         </div>
