@@ -86,7 +86,7 @@ export default function Home() {
 
           </div>
 
-          <div className='fixed  top-[123px] right-0'>
+          <div className='absolute  top-[123px] right-0'>
             <img src="/bgimg.png" alt="Blue man with open arms" width={643} height={857}/>
           </div>
         </div>
