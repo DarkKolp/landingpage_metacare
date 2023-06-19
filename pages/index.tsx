@@ -41,12 +41,18 @@ export default function Home() {
             text-xl font-bold'>
               Blog
             </a>
+            <a href="https://www.crotaluslabs.com/" 
+            className='text-[#0093ff]
+            pr-[3%]
+            text-xl font-bold'>
+              Contact
+            </a>
             <div className="
             pr-[3%]">
               <button className="h-[50px] w-[130px] rounded-lg
                   text-l text-white font-sans
                   bg-[#0093ff]">
-                    Contact
+                    Go to APP
               </button>
             </div>
           </div>
